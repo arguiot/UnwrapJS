@@ -1,0 +1,31 @@
+{
+    "name": "unwrap.js",
+    "version": "1.0.0",
+    "description": "A tiny unwrap module",
+    "source": "index.js",
+    "dependencies": {
+        "microbundle": "^0.11.0"
+    },
+    "devDependencies": {},
+    "main": "dist/unwrap.js",
+    "module": "dist/unwrap.mjs",
+    "unpkg": "dist/unwrap.umd.js",
+    "scripts": {
+        "build": "microbundle",
+        "dev": "microbundle watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arguiot/UnwrapJS.git"
+    },
+    "keywords": [
+        "unwrap",
+        "optional"
+    ],
+    "author": "Arthur Guiot",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/arguiot/UnwrapJS/issues"
+    },
+    "homepage": "https://github.com/arguiot/UnwrapJS#readme"
+}

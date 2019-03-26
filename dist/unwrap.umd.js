@@ -1,0 +1,2 @@
+!function(o,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports={unwrap:function(o,n){return void 0===n&&(n={}),void 0===o?n:o},version:1,author:"Arthur Guiot"}:"function"==typeof define&&define.amd?define(function(){return{unwrap:function(o,n){return void 0===n&&(n={}),void 0===o?n:o},version:1,author:"Arthur Guiot"}}):o.unwrapJs={unwrap:function(o,n){return void 0===n&&(n={}),void 0===o?n:o},version:1,author:"Arthur Guiot"}}(this);
+//# sourceMappingURL=unwrap.umd.js.map
